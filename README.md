@@ -5,3 +5,5 @@ wget -O install.sh https://raw.githubusercontent.com/timon49/brainycpUb20/main/i
 apt-get install sudo -y
 
 apt-get install mumble-server -y
+
+apt install htop
